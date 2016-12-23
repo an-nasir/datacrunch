@@ -1,0 +1,2 @@
+class Crunch < ApplicationRecord
+end
